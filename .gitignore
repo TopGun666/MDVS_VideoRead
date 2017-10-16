@@ -1,3 +1,10 @@
+*build*
+*.pro.usr*
+*.pro.autosave*
+.DS_Store
+._.*
+
+
 # Prerequisites
 *.d
 
