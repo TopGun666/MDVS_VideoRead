@@ -1,9 +1,9 @@
+
 *build*
 *.pro.user*
 *.pro.autosave*
 .DS_Store
 ._.*
-
 
 # Prerequisites
 *.d
