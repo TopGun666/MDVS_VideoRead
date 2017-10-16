@@ -1,5 +1,0 @@
-#ifndef VIDEOCAPTURE
-#define VIDEOCAPTURE
-
-#endif // VIDEOCAPTURE
-

@@ -1,5 +1,5 @@
 *build*
-*.pro.usr*
+*.pro.user*
 *.pro.autosave*
 .DS_Store
 ._.*
